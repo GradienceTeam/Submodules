@@ -121,6 +121,7 @@
 
 .quick-toggle-menu-container {
   & > StBoxLayout {
+    color: $fg_color !important;
     background-color: $bg_color !important;
   }
 }
