@@ -120,6 +120,7 @@
 }
 
 .quick-toggle-menu-container {
+  & > StBoxLayout { background-color: $osd_bg_color !important; }
 }
 
 .quick-settings-system-item {
