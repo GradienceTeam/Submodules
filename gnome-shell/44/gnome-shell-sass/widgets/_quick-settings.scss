@@ -120,7 +120,7 @@
 }
 
 .quick-toggle-menu-container {
-  & > StBoxLayout { background-color: $osd_bg_color !important; }
+  & > StBoxLayout { background-color: $osd_insensitive_bg_color !important; }
 }
 
 .quick-settings-system-item {
