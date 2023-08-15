@@ -101,6 +101,7 @@
     padding-bottom: 2 * $base_padding;
 
     & .icon {
+      color: $fg_color !important;
       icon-size: $base_icon_size*1.5; // a non-standard symbolic size but ok
       border-radius: 999px;
       padding: 1.5 * $base_padding;
