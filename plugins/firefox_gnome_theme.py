@@ -14,6 +14,7 @@ TEMPLATE = """
  */
 
 :root {{
+    --gnome-window-background:                     {window_bg_color};
     --gnome-browser-before-load-background:        {window_bg_color};
     --gnome-accent-bg:                             {accent_bg_color};
     --gnome-accent:                                {accent_color};
